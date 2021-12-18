@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f61d075c-3407-469d-981a-6118b798546a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Máy tính.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/src/bai2/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/src/bai2/Document.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/src/bai2/Main2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/New Text Document.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,19 +23,6 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -49,6 +32,7 @@
       <option name="presentableId" value="Default" />
       <updated>1637588120785</updated>
       <workItem from="1637588127717" duration="798000" />
+      <workItem from="1639375125467" duration="33000" />
     </task>
     <servers />
   </component>
@@ -65,5 +49,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
